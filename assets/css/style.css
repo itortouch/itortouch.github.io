@@ -277,12 +277,6 @@ html, body {
     text-transform: uppercase;
 }
 
-.section-portfolio h4 {
-    font-size: 20px;
-    margin: 0;
-    text-transform: uppercase;
-}
-
 .img-lines {
     margin: 15px 0 40px;
 }
@@ -420,6 +414,7 @@ html, body {
     margin: 0 0 20px;
     font-weight: 700;
     color: #fff;
+    font-size: 20px !important;
 }
 
 .portfolio-item-info a {
