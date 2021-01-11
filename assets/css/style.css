@@ -369,7 +369,7 @@ html, body {
     position: relative;
 }
 
-.section-portfolio .col-md-4:nth-last-child(-n+3) .portfolio-item {
+.section-portfolio .col-md-4:nth-last-child(-n+2) .portfolio-item {
     margin-bottom: 0;
 }
 
