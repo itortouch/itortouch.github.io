@@ -12,11 +12,11 @@
 	/* HERO
 	================================================== */
 	.hero {
-		min-height: 600px;
+		min-height: 100px;
 	}
 
 	.hero img {
-		height: 500px;
+		height: 100px;
 	}
 
 	/* SITEMAIN
@@ -163,9 +163,9 @@
 		padding-left: 15px;
 	}
 
-	.site-logo img {
+/*	.site-logo img {
 		height: 22px;
-	}
+	}*/
 
 	/* Navigation */
 	.navbar-toggle {
